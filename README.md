@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## About me
+- 이름: 정상구
+- 닉네임: 39roc
+- contact: funkidz39@gmail.com
+
 <!--
 **39roc/39roc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
