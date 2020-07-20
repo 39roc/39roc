@@ -6,8 +6,15 @@
 
 ## Introduce 
 :book: I am studying to be a **backend engineer** <br>
+<br>
 
 
+
+<div align=right>
+ 
+ [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&link=https://www.youtube.com/channel/UChYV63qfqVq8z84Dkv8cOvQ)](https://www.youtube.com/channel/UChYV63qfqVq8z84Dkv8cOvQ)
+ 
+</div>
  
 <!--
 **39roc/39roc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
