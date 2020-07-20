@@ -1,10 +1,14 @@
-### Hi there 👋
+<div align=center>
 
-## About me
-- 이름: 정상구
-- 닉네임: 39roc
-- contact: funkidz39@gmail.com
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F39roc)](https://hits.seeyoufarm.com)
 
+</div>
+
+## Introduce 
+:book: I am studying to be a **backend engineer** <br>
+
+
+ 
 <!--
 **39roc/39roc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
